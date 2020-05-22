@@ -2,4 +2,4 @@ Hello Git and GitHub
 
 My name is Daniel!
 
-lekjnfkendpefjdp
+I'm bachlor in CS
